@@ -276,3 +276,5 @@ Another thing to add here is that we are only really working with Ubuntu VMs but
 This final playlist listed above is where a lot of the code and ideas came from for this section, a great resource and walkthrough in video format.
 
 See you on [Day 66](day66.md)
+
+# Completed exercises, Ansible playbook format, Vagrant to setup our environment
