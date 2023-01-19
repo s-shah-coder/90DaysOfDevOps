@@ -119,7 +119,7 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 - [✔️] 📜 63 > [The Big Picture: Configuration Management](Days/day63.md)
 - [✔️] 📜 64 > [Ansible: Getting Started](Days/day64.md)
 - [✔️] 📜 65 > [Ansible Playbooks](Days/day65.md)
-- [] 📜 66 > [Ansible Playbooks Continued...](Days/day66.md)
+- [✔️] 📜 66 > [Ansible Playbooks Continued...](Days/day66.md)
 - [] 📜 67 > [Using Roles & Deploying a Loadbalancer](Days/day67.md)
 - [] 📜 68 > [Tags, Variables, Inventory & Database Server config](Days/day68.md)
 - [] 📜 69 > [All other things Ansible - Automation Controller, AWX, Vault](Days/day69.md)
