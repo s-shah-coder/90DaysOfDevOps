@@ -120,3 +120,5 @@ I am pretty confident that what we have installed is all good but let's use an a
 This final playlist listed above is where a lot of the code and ideas came from for this section, a great resource and walkthrough in video format.
 
 See you on [Day 68](day68.md)
+
+# Completed daily exercises, Deploying and Loadbalancer
