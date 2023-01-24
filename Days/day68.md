@@ -351,3 +351,5 @@ One thing I have found is that in our `setup_mysql.yml` I had to add the line `l
 This final playlist listed above is where a lot of the code and ideas came from for this section, a great resource and walkthrough in video format.
 
 See you on [Day 69](day69.md)
+
+# Completed daily exercises, Tags, Inventory & Database Server
