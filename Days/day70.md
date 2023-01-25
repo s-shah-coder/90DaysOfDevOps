@@ -121,3 +121,5 @@ I plan to look at the following:
 - [GitHub Actions CI/CD](https://www.youtube.com/watch?v=mFFXuXjVgkU)
 
 See you on [Day 71](day71.md)
+
+# Completed daily exercises, Jenkins, ArgoCD and GitHub Actions tutorials
