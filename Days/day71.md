@@ -103,3 +103,5 @@ I am going to be looking for a step-by-step example of an application that we ca
 - [GitHub Actions CI/CD](https://www.youtube.com/watch?v=mFFXuXjVgkU)
 
 See you on [Day 72](day72.md)
+
+# Completed dai;y exercises, Jenkins Architecture, Jenkins Pipeline - Code Commit, Build, Test, Release and Deploy.
