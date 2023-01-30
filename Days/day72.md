@@ -162,3 +162,5 @@ In the next section, we will be building a Jenkins Pipeline.
 - [GitHub Actions CI/CD](https://www.youtube.com/watch?v=mFFXuXjVgkU)
 
 See you on [Day 73](day73.md)
+
+# Comepleted daily exercises, Jenkins installation
