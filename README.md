@@ -131,7 +131,7 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 - [✔️] 🔄 72 > [Getting hands on with Jenkins](Days/day72.md)
 - [✔️] 🔄 73 > [Building a Jenkins pipeline](Days/day73.md)
 - [✔️] 🔄 74 > [Hello World - Jenkinsfile App Pipeline](Days/day74.md)
-- [] 🔄 75 > [GitHub Actions Overview](Days/day75.md)
+- [✔️] 🔄 75 > [GitHub Actions Overview](Days/day75.md)
 - [] 🔄 76 > [ArgoCD Overview](Days/day76.md)
 
 ### Monitoring, Log Management, and Data Visualisation
